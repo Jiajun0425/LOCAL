@@ -1,13 +1,4 @@
 <h2 align="center">LOCAL: Learning with Orientation Matrix to Infer Causal Structure from Interventional Time Series Data</h2>
-<p align="center">
-  <a href="https://faculty.bjtu.edu.cn/rjxy/7930.html"><strong>Weiwei xing</strong></a>
-  .
-  <a href="https://cyue0316.github.io/"><strong>Yue Cheng</strong></a>
-  ·  
-  <a href="https://george7317.github.io/"><strong>Jiajun Zhang</strong></a>
-  <br>
-  
-</p>
 
 <br>
 
